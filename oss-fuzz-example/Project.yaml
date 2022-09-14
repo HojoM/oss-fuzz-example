@@ -1,6 +1,6 @@
-homepage: "https://github.com/HojoM/fuzz_test"
+homepage: "https://github.com/HojoM/oss-fuzz-example"
 
-main_repo: 'https://github.com/HojoM/fuzz_test'
+main_repo: 'https://github.com/HojoM/oss-fuzz-example'
 
 primary_contact: "aidenmax187@gmail.com"
 
