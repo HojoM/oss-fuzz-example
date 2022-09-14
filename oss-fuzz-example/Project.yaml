@@ -1,0 +1,11 @@
+homepage: "https://github.com/HojoM/fuzz_test"
+
+main_repo: 'https://github.com/HojoM/fuzz_test'
+
+primary_contact: "aidenmax187@gmail.com"
+
+auto_ccs :
+
+  - "aidenmax187@gmail.com"
+
+language: c
